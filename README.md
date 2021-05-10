@@ -5,7 +5,7 @@
 ## 📫 Career
 | Type                	| Date            	   | Contents                           	| Organization                                          	|
 |---------------------	|-----------------	   |------------------------------------	|-------------------------------------------------------	|
-| Education           	| 2013.2 ~ 2019.2 	   | Industrial Engineering             	| Hanbat Nation Univ                                    	|
+| Education           	| 2013.2 ~ 2019.2 	   | Industrial Engineering             	| Hanbat National Univ.                                   |
 | Education           	| 2019.4 ~ 2019.9 	   | Software Developer training course 	| Electronics and Telecommunications Research Institute 	|
 | Employment          	| 2019.9 ~ 2020.6 	   | MES SW Engineer                    	| Dongkuk Systems                                       	|
 | Employment          	| 2020.6 ~ current     | WMS SW Developer                   	| SFA                                                   	|
