@@ -1,6 +1,8 @@
 ### Hi there 👋
+![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Java&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skier5000)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **skier5000/skier5000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
