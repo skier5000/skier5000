@@ -2,7 +2,7 @@
 
 <br/><br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.sfa.co.kr&count_bg=%2379C83D&title_bg=%2379C83D&icon=pinboard.svg&icon_color=%23E7E7E7&title=SFA&edge_flat=true)](https://www.sfa.co.kr/)
-## 📫 Career
+## :clipboard: Career
 | Type                	| Date            	   | Contents                           	| Organization                                          	|
 |---------------------	|-----------------	   |------------------------------------	|-------------------------------------------------------	|
 | Education           	| 2013.2 ~ 2019.2 	   | Industrial Engineering             	| Hanbat National Univ.                                   |
@@ -13,8 +13,13 @@
 
 
 <br/><br/><br/><br/>
-## Stack
-![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Java&logoColor=white)
+## :books: Stack
+### Web Backend
+Java Spring JPA MyBatis Oracle H2 
+
+### Cowork tools
+Jenkins Github
+
 
 <!--
 **skier5000/skier5000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
