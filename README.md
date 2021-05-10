@@ -12,7 +12,7 @@
 | External activities 	| 2021.5 ~ 2021.7 	   | Mini Delivery Project              	| Project crew                                          	|
 
 
-<br/><br/><br/><br/>
+<br/><br/>
 ## :books: Stack
 ### Web Backend
 Java Spring JPA MyBatis Oracle H2 
