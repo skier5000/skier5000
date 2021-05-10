@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hello My name is Junbeom, I am a developer working at SFA
 
 <br/><br/>
 
