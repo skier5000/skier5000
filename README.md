@@ -38,3 +38,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+취업리스트
+오픈서베이 : https://programmers.co.kr/job_positions/2571
+마이리얼트립 : https://programmers.co.kr/job_positions/3127
+쿠팡 : https://programmers.co.kr/job_positions/3761
+
+-->
