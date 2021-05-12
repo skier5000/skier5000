@@ -22,7 +22,15 @@ Java Spring JPA MyBatis Oracle H2
 Jenkins Github
 
 <br/><br/>
-## :books: Projects
+## :office: Projects
+| Type                	| Date            	   | Contents                           	| Organization                                          	|
+|---------------------	|-----------------	   |------------------------------------	|-------------------------------------------------------	|
+| WMS Internalization  	| 2020.8 ~ 2021.4 	   | WMS Internalizationfor technology improvement   | SFA                                          |
+| External Education    | 2018.7          	   | Statistical Science training course  | Seoul National Univ.                                    |
+| External Education    | 2019.4 ~ 2019.9 	   | Software Developer training course 	| Electronics and Telecommunications Research Institute 	|
+| Employment          	| 2019.9 ~ 2020.6 	   | MES SW Engineer                    	| Dongkuk Systems                                       	|
+| Employment          	| 2020.6 ~ current     | WMS SW Developer                   	| SFA                                                   	|
+| External activities 	| 2021.5 ~ 2021.7 	   | Mini Delivery Project              	| Project crew                                          	|
 
 <!--
 
