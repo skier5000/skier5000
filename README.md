@@ -26,7 +26,7 @@ Jenkins Github
 | Type                	| Date            	   | Contents                           	| Organization                                          	|
 |---------------------	|-----------------	   |------------------------------------	|-------------------------------------------------------	|
 | Backend Developer   	| 2020.8 ~ 2021.4 	   | WMS Internalizationfor               | SFA                                                     |
-| Backend Developer     | 2021.5 ~ current     | Mini Delivery Project                | Project crew                                            |
+| Backend Developer     | 2021.4 ~ current     | Mini Delivery Project                | Project crew                                            |
 | Backend Developer     | 2021.5 ~ current 	   | Pharmaceutical Company WMS Project 	| SFA                                                   	|
 
 <!--
