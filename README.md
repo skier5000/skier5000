@@ -13,7 +13,7 @@
 | External activities 	| 2021.5 ~ 2021.7 	   | Mini Delivery Project              	| Project crew                                          	|
 
 
-<br/><br/>
+<br/>
 ## :books: Stack
 ### Web Backend
 Java Spring JPA MyBatis Oracle H2 
@@ -21,7 +21,7 @@ Java Spring JPA MyBatis Oracle H2
 ### Cowork tools
 Jenkins Github
 
-<br/><br/>
+<br/>
 ## :office: Projects
 | Type                	| Date            	   | Contents                           	| Organization                                          	|
 |---------------------	|-----------------	   |------------------------------------	|-------------------------------------------------------	|
