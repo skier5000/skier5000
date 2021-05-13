@@ -1,4 +1,4 @@
-### 👋 Hello My name is Junbeom, I am a WMS developer working at SFA
+### 👋 Hi there
 <br/>
 
 ## :clipboard: Career
