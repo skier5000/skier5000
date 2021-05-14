@@ -48,7 +48,8 @@ Here are some ideas to get you started:
 취업리스트
 오픈서베이 : https://programmers.co.kr/job_positions/2571
 마이리얼트립 : https://programmers.co.kr/job_positions/3127
-쿠팡 : https://programmers.co.kr/job_positions/3761
+쿠팡(Back-end Engineer for SCM System (Java & Spring Framework) : https://programmers.co.kr/job_positions/3761
+버킷플레이스 : https://www.bucketplace.co.kr/recruit
 매스프레소 : https://mathpresso.com/ko/careers
 
 -->
