@@ -24,9 +24,9 @@ Jenkins Github
 ## :office: Projects
 | Type                	| Date            	   | Contents                           	| Organization                                          	|
 |---------------------	|-----------------	   |------------------------------------	|-------------------------------------------------------	|
-| Backend Developer   	| 2020.8 ~ 2021.4 	   | WMS Internalizationfor               | SFA                                                     |
-| Backend Developer     | 2021.4 ~ current     | Mini Delivery Project                | Project crew                                            |
-| Backend Developer     | 2021.5 ~ current 	   | Pharmaceutical Company WMS Project 	| SFA                                                   	|
+| Backend Developer   	| 2020.8 ~ 2021.4 	   | WMS Internalizationfor              | SFA                                                    |
+| Backend Developer     | 2021.4 ~ current   | Mini Delivery Project               | Project crew                                           |
+| Backend Developer     | 2021.5 ~ current 	 | Pharmaceutical Company WMS Project 	| SFA                                                   	|
 
 <!--
 
@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 오픈서베이 : https://programmers.co.kr/job_positions/2571
 마이리얼트립 : https://programmers.co.kr/job_positions/3127
 쿠팡 : https://programmers.co.kr/job_positions/3761
+매스프레소 : https://mathpresso.com/ko/careers
 
 -->
 
