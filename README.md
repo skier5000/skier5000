@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 쿠팡(Back-end Engineer for SCM System (Java & Spring Framework) : https://programmers.co.kr/job_positions/3761
 버킷플레이스 : https://www.bucketplace.co.kr/recruit
 매스프레소 : https://mathpresso.com/ko/careers
+센드버드 : https://programmers.co.kr/job_positions/3065
 
 -->
 
