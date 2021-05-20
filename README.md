@@ -28,6 +28,9 @@ Jenkins Github
 | Backend Developer     | 2021.4 ~ current   | Mini Delivery Project               | Project crew                                           |
 | Backend Developer     | 2021.5 ~ current 	 | Pharmaceutical Company WMS Project 	| SFA                                                   	|
 
+
+
+
 <!--
 
 **skier5000/skier5000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
