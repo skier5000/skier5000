@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 꾸미기리스트
 이모티콘사용 페이지 : https://www.webfx.com/tools/emoji-cheat-sheet/
 
+
 -->
 
 
@@ -71,5 +72,6 @@ Here are some ideas to get you started:
 2021년 7월까지 미니배달의민족 프로젝트 마무리
 2021년 9월까지 코딩테스트 계속 공부
 2021년 10월 기점으로 미니 프로젝트 진행
+
 
 -->
