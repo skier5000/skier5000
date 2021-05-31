@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Junbeom Lee
+### 👋 Hi there
 
 <br/>
 
