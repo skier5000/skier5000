@@ -32,7 +32,7 @@ Jenkins Github
 | Backend Developer    | 2021.5 ~ current 	  | Pharmaceutical Company WMS Project 	| SFA                                                   	|
 | Backend Developer    | 2021.4 ~ current    | Mini Delivery Project               | Project crew                                           |
 | Backend Developer   	| 2020.8 ~ 2021.4 	   | WMS Internalizationfor              | SFA                                                    |
-| Domain Design       	| 2020.6 ~ 2020.8 	   | Semiconductor WES Project           | SFA                                                    |
+| Domain Design & System Management       	| 2020.6 ~ 2020.8 	   | Semiconductor WES Project           | SFA                                                    |
 
 
 
