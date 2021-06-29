@@ -35,7 +35,11 @@ Jenkins Github
 | Domain Design & System Management       	| 2020.6 ~ 2020.8 	   | Semiconductor WES Project           | SFA                                                    |
 
 
-
+<br/><br/>
+Spring Framework
+Java 11
+코딩테스트
+도메인 지식
 
 
 <!--
