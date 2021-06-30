@@ -18,12 +18,15 @@
 
 <br/>
 
-## :books: Stack
+## :books: Stack & Study
 ### Web Backend
 Java Spring JPA MyBatis Oracle H2 
 
 ### Cowork tools
 Jenkins Github
+
+### Study
+Kotlin Java Spring JPA
 
 <br/><br/>
 ## :office: Projects
