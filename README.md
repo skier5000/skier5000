@@ -32,7 +32,7 @@ Kotlin Java Spring JPA
 ## :office: Projects
 | Type                	                    | Date            	   | Contents                           	| Organization                                          	|
 |---------------------	                    |-----------------	   |------------------------------------	|-------------------------------------------------------	|
-| PE & Backend Developer | 2021.6 ~ current 	  | <a href="https://github.com/skier5000/Pharmaceutical-Company-WMS-Project">Pharmaceutical Company WMS Project</a>   | SFA 	|
+| PE & Backend Developer | 2021.6 ~ current 	  | <a href="https://github.com/skier5000/Pharmaceutical-Company-WMS-Project" target="_blank">Pharmaceutical Company WMS Project</a>   | SFA 	|
 | Project Manager & Backend Developer      | 2021.5 ~ current    | <a href="https://github.com/skier5000/MiniDeliveryProject">MiniDeliveryProject</a>            | Project crew |
 | Domain Design & Backend Developer   	    | 2020.8 ~ 2021.5 	   | <a href="https://github.com/skier5000/WMS-Internalizationfor">WMS Internalizationfor</a>      | SFA|
 | Domain Design & System Management       	| 2020.6 ~ 2020.8 	   | <a href="https://github.com/skier5000/Semiconductor-WES-Project">Semiconductor WES Project</a>| SFA |
@@ -49,7 +49,7 @@ Java 11
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/junbeom.hi/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://alpox.kr" target='_blank'>
+<a href="https://alpox.kr">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
