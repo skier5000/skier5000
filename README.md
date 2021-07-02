@@ -1,4 +1,20 @@
 ### 👋 Hi there !!!
+<a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/junbeom.hi/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://alpox.kr">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<br/>
+방문해주셔서 감사합니다!👋 <br/>
+현재 저는 기업 업무 환경에 특화된 Web Backend 개발자를 목표로 공부하고 있습니다. <br/>
+MES, WMS 등 제조환경에서 사용되는 웹 어플리케이션 개발 업무로 2년간 근무했습니다. <br/>
+현재, Spring Framework 기반 Backend 개발자로 더욱 성장하기 위해 미니 배달 플랫폼 프로젝트를 준비하고 있습니다. <br/>
+감사합니다! <br/>
 
 <br/>
 
@@ -26,34 +42,25 @@
 <br/>
 
 ## :books: Stack & Study
-### Web Backend
-Java Spring JPA MyBatis Oracle H2 
+  + Backend
+    + Java Spring JPA MyBatis Oracle H2
+  + Frontend
+    + Thymeleaf html5 javascript
+  + Cowork tools
+    + Jenkins Github
+  + Study
+    + Kotlin Java Spring JPA
+  + Scheduled Study
+    + Spring Framework   Coding Test   도메인 지식
+    + Coding Test
+    + Domain knowledge
 
-### Cowork tools
-Jenkins Github
 
-### Study
-Kotlin Java Spring JPA
-
+<br/><br/>
 <br/><br/>
 
 
-<br/><br/>
-Spring Framework
-Java 11
-코딩테스트
-도메인 지식
 
-<a href="https://instagram.com/alpox.dev">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/junbeom.hi/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://alpox.kr">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 <!--
 
 **skier5000/skier5000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
