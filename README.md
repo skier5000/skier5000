@@ -14,6 +14,13 @@
 
 
 
+## :office: Projects
+| Type                	                    | Date            	   | Contents                           	| Organization                                          	|
+|---------------------	                    |-----------------	   |------------------------------------	|-------------------------------------------------------	|
+| PE & Backend Developer | 2021.6 ~ current 	  | <a href="https://github.com/skier5000/Pharmaceutical-Company-WMS-Project">Pharmaceutical Company WMS Project</a> | SFA|
+| Project Manager & Backend Developer      | 2021.5 ~ current    | <a href="https://github.com/skier5000/MiniDeliveryProject">MiniDeliveryProject</a>            | Project crew |
+| Domain Design & Backend Developer   	    | 2020.8 ~ 2021.5 	   | <a href="https://github.com/skier5000/WMS-Internalizationfor">WMS Internalizationfor</a>        | SFA|
+| Domain Design & System Management       	| 2020.6 ~ 2020.8 	   | <a href="https://github.com/skier5000/Semiconductor-WES-Project">Semiconductor WES Project</a>  | SFA |
 
 
 <br/>
@@ -29,13 +36,6 @@ Jenkins Github
 Kotlin Java Spring JPA
 
 <br/><br/>
-## :office: Projects
-| Type                	                    | Date            	   | Contents                           	| Organization                                          	|
-|---------------------	                    |-----------------	   |------------------------------------	|-------------------------------------------------------	|
-| PE & Backend Developer | 2021.6 ~ current 	  | <a href="https://github.com/skier5000/Pharmaceutical-Company-WMS-Project">Pharmaceutical Company WMS Project</a> | SFA|
-| Project Manager & Backend Developer      | 2021.5 ~ current    | <a href="https://github.com/skier5000/MiniDeliveryProject">MiniDeliveryProject</a>            | Project crew |
-| Domain Design & Backend Developer   	    | 2020.8 ~ 2021.5 	   | <a href="https://github.com/skier5000/WMS-Internalizationfor">WMS Internalizationfor</a>        | SFA|
-| Domain Design & System Management       	| 2020.6 ~ 2020.8 	   | <a href="https://github.com/skier5000/Semiconductor-WES-Project">Semiconductor WES Project</a>  | SFA |
 
 
 <br/><br/>
