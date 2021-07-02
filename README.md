@@ -1,4 +1,3 @@
-### 👋 Hi there !!!
 <a href="https://instagram.com/alpox.dev">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/junbeom.hi/"
@@ -9,7 +8,7 @@
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<br/>
+<br/><br/>
 방문해주셔서 감사합니다!👋 <br/>
 현재 저는 기업 업무 환경에 특화된 Web Backend 개발자를 목표로 공부하고 있습니다. <br/>
 MES, WMS 등 제조환경에서 사용되는 웹 어플리케이션 개발 업무로 2년간 근무했습니다. <br/>
