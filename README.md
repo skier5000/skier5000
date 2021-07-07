@@ -1,4 +1,4 @@
-<a href="https://instagram.com/alpox.dev">
+<a href="https://www.instagram.com/junbeom.hi/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/junbeom.hi/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
