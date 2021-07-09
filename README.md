@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 크로키닷컴 : 
 코인원 : 
 티빙 : 
-SSG 닷컴 : 
+SSG 닷컴 : https://ssg.recruiter.co.kr/appsite/company/callSubPage?code1=3000&code2=3100&code3=3110
 -->
 
 <!--
