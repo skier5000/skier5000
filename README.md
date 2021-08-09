@@ -20,12 +20,12 @@ MES, WMS 등 제조환경에서 사용되는 웹 어플리케이션 개발 업�
 ## :clipboard: Career
 | Type                	| Date            	   | Contents                           	| Organization                                          	|
 |---------------------	|-----------------	   |------------------------------------	|-------------------------------------------------------	|
-| External activities 	| 2021.6 ~ 2021.7 	   | Mini Delivery Project              	| Project crew                                          	|
-| Employment          	| 2020.6 ~ current    | WMS SW Developer                    | SFA                                                   	|
+| External activities 	| 2021.6 ~ current 	   | Personal Projects              	    | Project crew                                          	|
+| Employment          	| 2020.6 ~ current     | WMS SW Developer                       | SFA                                                   	|
 | Employment          	| 2019.9 ~ 2020.6 	   | MES SW Engineer                    	| Dongkuk Systems                                       	|
-| External Education   | 2019.4 ~ 2019.9 	   | Software Developer training course 	| Electronics and Telecommunications Research Institute 	|
-| External Education   | 2018.7          	   | Statistical Science training course | Seoul National Univ.                                   |
-| Education           	| 2013.2 ~ 2019.2 	   | Industrial Engineering             	| Hanbat National Univ.                                  |
+| External Education    | 2019.4 ~ 2019.9 	   | Software Developer training course 	| Electronics and Telecommunications Research Institute 	|
+| External Education    | 2018.7          	   | Statistical Science training course    | Seoul National Univ.                                      |
+| Education           	| 2013.2 ~ 2019.2 	   | Industrial Engineering             	| Hanbat National Univ.                                     |
 
 
 ## :office: Projects
