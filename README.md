@@ -15,10 +15,7 @@
 MES, WMS 등 제조환경에서 사용되는 웹 어플리케이션 개발 업무로 2년간 근무했습니다. <br/>
 현재, 웹서비스 업계의 Backend 개발자로 더욱 성장하기 위해 미니 배달 플랫폼 프로젝트를 준비하고 있습니다. <br/>
 감사합니다! <br/>
-<br/>
-<a href="https://www.notion.so/4c11becde4564da6bee60f5f0cde9849">
-    Notion
-</a>
+
 <br/>
 
 ## :clipboard: Career
