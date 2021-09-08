@@ -105,4 +105,5 @@ SSG 닷컴 : https://ssg.recruiter.co.kr/appsite/company/callSubPage?code1=3000&
 2021년 9월까지 코딩테스트 계속 공부
 2021년 10월 기점으로 미니 프로젝트 진행
 2021년 07월 19일 ~ 
+2022년 상반기
 -->
