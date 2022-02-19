@@ -33,10 +33,10 @@ MES, WMS 등의 웹 어플리케이션 개발 업무로 근무중입니다. <br/
 ## :office: Projects
 | Type                	                    | Date            	   | Contents                           	| Organization                                          	|
 |---------------------	                    |-----------------	   |------------------------------------	|-------------------------------------------------------	|
-| Project Manager & Backend Developer  | 2021.6 ~ 2021.8 | <a href="https://github.com/skier5000/MiniDeliveryProject">MiniDeliveryProject</a>                     | Project crew |
-| PE & Backend Developer               | 2021.5 ~ 2022.2 | <a href="https://github.com/skier5000/Pharmaceutical-Company-WMS-Project">Pharmaceutical Company WMS Project</a> | SFA|
-| Domain Design & Backend Developer   	    | 2020.8 ~ 2021.5 	   | <a href="https://github.com/skier5000/WMS-Internalizationfor">WMS Internalizationfor</a>        | SFA|
-| Domain Design & System Management       	| 2020.6 ~ 2020.8 	   | <a href="https://github.com/skier5000/Semiconductor-WES-Project">Semiconductor WES Project</a>  | SFA |
+| Project Manager & Backend Developer  | 2021.6 ~ 2021.8 | <!--<a href="https://github.com/skier5000/MiniDeliveryProject">-->MiniDeliveryProject</a>                     | Project crew |
+| PE & Backend Developer               | 2021.5 ~ 2022.2 | <!--<a href="https://github.com/skier5000/Pharmaceutical-Company-WMS-Project">-->Pharmaceutical Company WMS Project</a> | SFA|
+| Domain Design & Backend Developer   	    | 2020.8 ~ 2021.5 	   | <!--<a href="https://github.com/skier5000/WMS-Internalizationfor">-->WMS Internalizationfor</a>        | SFA|
+| Domain Design & System Management       	| 2020.6 ~ 2020.8 	   | <!--<a href="https://github.com/skier5000/Semiconductor-WES-Project">-->Semiconductor WES Project</a>  | SFA |
 
 
 <br/>
