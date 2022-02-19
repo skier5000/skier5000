@@ -22,7 +22,8 @@ MES, WMS 등의 웹 어플리케이션 개발 업무로 2년간 근무했습니�
 | Type                	| Date            	   | Contents                           	| Organization                                          	|
 |---------------------	|-----------------	   |------------------------------------	|-------------------------------------------------------	|
 | External activities 	| 2021.6 ~ current 	   | Personal Projects              	    | Project crew                                          	|
-| Employment          	| 2020.6 ~ current     | WMS SW Developer                       | SFA                                                   	|
+| Employment          	| 2022.2 ~ current     | WMS SW Developer                       | SSG.COM                                                  	|
+| Employment          	| 2020.6 ~ 2022.2      | WMS SW Developer                       | SFA                                                   	|
 | Employment          	| 2019.9 ~ 2020.6 	   | MES SW Engineer                    	| Dongkuk Systems                                       	|
 | External Education    | 2019.4 ~ 2019.9 	   | Software Developer training course 	| Electronics and Telecommunications Research Institute 	|
 | External Education    | 2018.7          	   | Statistical Science training course    | Seoul National Univ.                                      |
@@ -33,7 +34,7 @@ MES, WMS 등의 웹 어플리케이션 개발 업무로 2년간 근무했습니�
 | Type                	                    | Date            	   | Contents                           	| Organization                                          	|
 |---------------------	                    |-----------------	   |------------------------------------	|-------------------------------------------------------	|
 | Project Manager & Backend Developer  | 2021.6 ~ 2021.8 | <a href="https://github.com/skier5000/MiniDeliveryProject">MiniDeliveryProject</a>                     | Project crew |
-| PE & Backend Developer               | 2021.5 ~ 2022.3 | <a href="https://github.com/skier5000/Pharmaceutical-Company-WMS-Project">Pharmaceutical Company WMS Project</a> | SFA|
+| PE & Backend Developer               | 2021.5 ~ 2022.2 | <a href="https://github.com/skier5000/Pharmaceutical-Company-WMS-Project">Pharmaceutical Company WMS Project</a> | SFA|
 | Domain Design & Backend Developer   	    | 2020.8 ~ 2021.5 	   | <a href="https://github.com/skier5000/WMS-Internalizationfor">WMS Internalizationfor</a>        | SFA|
 | Domain Design & System Management       	| 2020.6 ~ 2020.8 	   | <a href="https://github.com/skier5000/Semiconductor-WES-Project">Semiconductor WES Project</a>  | SFA |
 
