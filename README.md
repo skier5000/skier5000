@@ -21,8 +21,9 @@ MES, WMS 등의 웹 어플리케이션 개발 업무로 근무중입니다. <br/
 ## :clipboard: Career
 | Type                	| Date            	   | Contents                           	| Organization                                          	|
 |---------------------	|-----------------	   |------------------------------------	|-------------------------------------------------------	|
-| External activities 	| 2021.6 ~ current 	   | Personal Projects              	    | Project crew                                          	|
-| Employment          	| 2022.2 ~ current     | WMS SW Developer                       | SSG.COM                                                  	|
+| Employment          	| 2022.3 ~ current     | WMS SW Developer                       | SSG.COM                                                  	|
+| External activities   | 2023.3 ~ current     | Personal Projects                      | 구독형 그룹웨어 플랫폼                                      |
+| External activities 	| 2021.6 ~ 2021.8 	   | Personal Projects              	    | 미니 배달 플랫폼 사장님 페이지                              |
 | Employment          	| 2020.6 ~ 2022.2      | WMS SW Developer                       | SFA                                                   	|
 | Employment          	| 2019.9 ~ 2020.6 	   | MES SW Engineer                    	| Dongkuk Systems                                       	|
 | External Education    | 2019.4 ~ 2019.9 	   | Software Developer training course 	| Electronics and Telecommunications Research Institute 	|
@@ -33,6 +34,7 @@ MES, WMS 등의 웹 어플리케이션 개발 업무로 근무중입니다. <br/
 ## :office: Projects
 | Type                	                    | Date            	   | Contents                           	| Organization                                          	|
 |---------------------	                    |-----------------	   |------------------------------------	|-------------------------------------------------------	|
+| Backend Developer  | 2022.3 ~ current | SSG Fulfilment Center Backend Engineer</a>                     | SSG.com |
 | Project Manager & Backend Developer  | 2021.6 ~ 2021.8 | <!--<a href="https://github.com/skier5000/MiniDeliveryProject">-->MiniDeliveryProject</a>                     | Project crew |
 | PE & Backend Developer               | 2021.5 ~ 2022.2 | <!--<a href="https://github.com/skier5000/Pharmaceutical-Company-WMS-Project">-->Pharmaceutical Company WMS Project</a> | SFA|
 | Domain Design & Backend Developer   	    | 2020.8 ~ 2021.5 	   | <!--<a href="https://github.com/skier5000/WMS-Internalizationfor">-->WMS Internalizationfor</a>        | SFA|
@@ -44,7 +46,7 @@ MES, WMS 등의 웹 어플리케이션 개발 업무로 근무중입니다. <br/
 
 ## :books: Stack & Study
   + Backend
-    + Java Spring JPA MyBatis Oracle H2
+    + Java Spring JPA MyBatis Oracle H2 Kafka
   + Frontend
     + Thymeleaf html5 javascript
   + Cowork tools
