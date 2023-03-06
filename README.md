@@ -22,7 +22,7 @@ MES, WMS 등의 웹 어플리케이션 개발 업무로 근무중입니다. <br/
 | Type                	| Date            	   | Contents                           	| Organization                                          	|
 |---------------------	|-----------------	   |------------------------------------	|-------------------------------------------------------	|
 | Employment          	| 2022.3 ~ current     | WMS SW Developer                       | SSG.COM                                                  	|
-| External activities   | 2023.3 ~ current     | Personal Projects                      | 구독형 그룹웨어 플랫폼                                      |
+| External activities   | 2023.2 ~ current     | Personal Projects                      | 구독형 그룹웨어 플랫폼                                      |
 | External activities 	| 2021.6 ~ 2021.8 	   | Personal Projects              	    | 미니 배달 플랫폼 사장님 페이지                              |
 | Employment          	| 2020.6 ~ 2022.2      | WMS SW Developer                       | SFA                                                   	|
 | Employment          	| 2019.9 ~ 2020.6 	   | MES SW Engineer                    	| Dongkuk Systems                                       	|
